@@ -13,4 +13,3 @@ public class DataRow<K, V> {
     private V value;
 
 }
-
